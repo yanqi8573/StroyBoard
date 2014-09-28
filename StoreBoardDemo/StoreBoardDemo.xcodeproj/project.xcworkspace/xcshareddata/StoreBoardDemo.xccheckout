@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>5CC62BC6-AD08-41F9-9CB6-1EEFF05832DF</string>
+	<key>IDESourceControlProjectName</key>
+	<string>StoreBoardDemo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>0C4A24B59EB0B90D4B38329F09E7A9EC1525B8E9</key>
+		<string>https://git.oschina.net/yanqi8573/StoreBoardDemo.git</string>
+		<key>54E80E9DAE1DDB48BC8C2EED226D792F0F3F0A39</key>
+		<string>https://github.com/wangkaixin/JDFrameworks</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>StoreBoardDemo/StoreBoardDemo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>0C4A24B59EB0B90D4B38329F09E7A9EC1525B8E9</key>
+		<string>../../..</string>
+		<key>54E80E9DAE1DDB48BC8C2EED226D792F0F3F0A39</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/yanqi8573/StoreBoardDemo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>0C4A24B59EB0B90D4B38329F09E7A9EC1525B8E9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>54E80E9DAE1DDB48BC8C2EED226D792F0F3F0A39</string>
+			<key>IDESourceControlWCCName</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>0C4A24B59EB0B90D4B38329F09E7A9EC1525B8E9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StoreBoardDemo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
